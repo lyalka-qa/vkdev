@@ -3,7 +3,7 @@ package domain;
 public class Geo {
     private String type;
     private String coordinates;
-    private String place;
+    private Place place;
 
 
     // + get/set на все поля
